@@ -5,7 +5,7 @@ on:
 env:
   appName: 'popular-repos-web'
   resourceGroup: 'gh-universe-demos'
-  registryName: 'ghuniversedemos'
+  registryName: 'ghuniversedemos.azurecr.io'
 
 jobs:
   build:
